@@ -5,3 +5,5 @@ Remaining issues:
 * Lightbox only works if there is another image loaded that it can be stolen from
 * Lightbox only works for single images at a time, image switching does not work
 * Could also try loading avatars on user view
+
+Help welcome!
